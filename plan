@@ -1,0 +1,18 @@
+diecide players
+turns=9
+enter indexes to change number
+if index already entered say try again
+which players is playing
+if not player turn enter other persons turn
+if index values
+-
+if trun<=9
+diagonal
+straight
+across
+enter indexes for all=win
+
+if turn =9
+and no win
+print
+tiw
